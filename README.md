@@ -1,2 +1,0 @@
-# Online shopping with billing
-# 
